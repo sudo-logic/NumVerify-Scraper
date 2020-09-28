@@ -3,6 +3,7 @@
 A script to scrape data from http://numverify.com/ for free without having to make an account.
 
 How To:
+
 `
 git clone https://github.com/Awesome-Logic/Phone-Number-Data-Scraper.git
 cd Phone-Number\-Data\-Scraper
@@ -11,6 +12,7 @@ python scraper.py
 `
 
 Example Response:
+
 `{
   "valid": true,
   "number": "14158586273",
