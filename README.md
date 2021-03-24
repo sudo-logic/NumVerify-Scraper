@@ -1,9 +1,8 @@
 # Phone-Number-Location-Scraper
 
-A script to scrape data from http://numverify.com/ for free without having to make an account.
+A script to scrape data from https://numverify.com/ for free without having to make an account.
 
-How To:
-
+Installation:
 `
 git clone https://github.com/Awesome-Logic/Phone-Number-Data-Scraper.git
 cd Phone-Number\-Data\-Scraper
