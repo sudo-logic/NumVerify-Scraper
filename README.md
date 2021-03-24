@@ -12,7 +12,8 @@ python scraper.py
 
 Example Response:
 
-`{
+```
+{
   "valid": true,
   "number": "14158586273",
   "local_format": "4158586273",
@@ -23,4 +24,5 @@ Example Response:
   "location": "Novato",
   "carrier": "AT&T Mobility LLC",
   "line_type": "mobile"
-}`
+}
+```
