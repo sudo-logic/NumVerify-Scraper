@@ -4,8 +4,8 @@ A script to scrape data from https://numverify.com/ for free without having to m
 
 Installation:
 ```
-git clone https://github.com/Awesome-Logic/Phone-Number-Data-Scraper.git
-cd Phone-Number\-Data\-Scraper
+git clone https://github.com/Awesome-Logic/phone_number_data_scraper.git
+cd phone_number_data_scraper
 pip install -r requirements.txt
 python scraper.py
 ```
