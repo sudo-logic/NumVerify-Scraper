@@ -3,12 +3,12 @@
 A script to scrape data from https://numverify.com/ for free without having to make an account.
 
 Installation:
-`
+```
 git clone https://github.com/Awesome-Logic/Phone-Number-Data-Scraper.git
 cd Phone-Number\-Data\-Scraper
 pip install -r requirements.txt
 python scraper.py
-`
+```
 
 Example Response:
 
